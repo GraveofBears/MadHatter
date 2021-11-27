@@ -160,7 +160,7 @@ namespace MadHatter
             DeathKnightHelm.RequiredItems.Add("TrophyDeathsquito", 2);
             DeathKnightHelm.RequiredItems.Add("LinenThread", 4);
             DeathKnightHelm.RequiredItems.Add("LeatherScraps", 4);
-            DeathKnightHelm.RequiredUpgradeItems.Add("TrophyDeathsquito", 2);
+            DeathKnightHelm.RequiredUpgradeItems.Add("TrophySkeleton", 2);
             DeathKnightHelm.CraftAmount = 1;
 
             Item FallenWarriorHelm = new Item("hats", "FallenWarriorHelm", "Hatter");
